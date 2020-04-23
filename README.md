@@ -1,5 +1,5 @@
 # JSP-Collector
-A simple way to collecte student's picture(e.g. 青年大学习 screenshoots).
+A simple way to collect student's picture(e.g. 青年大学习 screenshoots).
 # Usage
 export WAR file and upload to tomcat manager.
 you should make a new dir `files` at run path.
